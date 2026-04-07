@@ -1,0 +1,8 @@
+<link rel="manifest" href="data:application/manifest+json,{
+  \"name\": \"FK Müzik\",
+  \"short_name\": \"FK Müzik\",
+  \"start_url\": \".\",
+  \"display\": \"standalone\",
+  \"theme_color\": \"#1DB954\",
+  \"background_color\": \"#0e1310\"
+}" />
